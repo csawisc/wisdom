@@ -10,6 +10,20 @@ categories: brain books information biolog
 ### Fairfax County Library: 003.54 Scharf 2021
 
 ### Abstract
-Information has a life of its own, and it's using you to get what it wants.  Drawing on deep ideas and frontier thinking in evolutionary biology, commputer science, information theory, and astrobiology, Caleb Sharf argues that information is "Alive". It has goals and needs, it can control our behavior and influence our well beings. Data isn't something we produce; its the reason we existt. 
+Information has a life of its own, and it's using you to get what it wants.  Drawing on deep ideas and frontier thinking in evolutionary biology, commputer science, information theory, and astrobiology, Caleb Sharf argues that information is "Alive". It has goals and needs, it can control our behavior and influence our well beings. Data isn't something we produce; its the reason we exist.
+
+Burden of human data and its contribution to our footprint on Earth. 
+The journey involves thinking about the datanome as a bridge between us and the world.
+### Chapters
+* Our Eternal Data
+* The Burden of an Idea
+* In Sickness and in Health
+* An ever More Tangled Bank
+* Genes, Memes, and Dreams
+* The Information River
+* Life Made Machine
+* The Great Blending
+* A Universe of Dataomes
+
 ### Keywords
 unverse, information, dataomes, genes, meme
