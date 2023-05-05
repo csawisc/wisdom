@@ -27,3 +27,7 @@ The journey involves thinking about the datanome as a bridge between us and the 
 
 ### Keywords
 unverse, information, dataomes, genes, meme
+
+### References
+
+* https://www.linkedin.com/pulse/why-we-all-need-physicist-chief-science-officer-cso-c-paradise?trk=articles_directory
