@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The ascent of Information , Books, Bits, Genes, Machines and Life's Unending Algoritthm"
+title:  "The Ascent of Information"
 date:   2023-05-05 17:26:31 -0400
 categories: brain books information biolog
 ---
@@ -11,6 +11,7 @@ categories: brain books information biolog
 ### Author: Caleb Scharf (Columbia University)
 
 ### Abstract
+The ascent of Information , Books, Bits, Genes, Machines and Life's Unending Algorithm.
 Information has a life of its own, and it's using you to get what it wants.  Drawing on deep ideas and frontier thinking in evolutionary biology, commputer science, information theory, and astrobiology, Caleb Sharf argues that information is "Alive". It has goals and needs, it can control our behavior and influence our well beings. Data isn't something we produce; its the reason we exist.
 
 Burden of human data and its contribution to our footprint on Earth. 
