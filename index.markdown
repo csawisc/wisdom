@@ -4,49 +4,7 @@
 
 layout: home
 ---
-<style>
-    /* CSS styles for the banner */
-    .banner {
-        background-color: #003366;
-        color: #ffffff;
-        text-align: center;
-        padding: 20px;
-    }
 
-    .banner h1 {
-        font-size: 36px;
-        margin: 0;
-        padding: 0;
-    }
-
-    .banner p {
-        font-size: 18px;
-        margin: 10px 0;
-        padding: 0;
-    }
-
-    .banner button {
-        background-color: #ffffff;
-        color: #003366;
-        border: none;
-        padding: 10px 20px;
-        font-size: 18px;
-        border-radius: 4px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
-
-    .banner button:hover {
-        background-color: #003366;
-        color: #ffffff;
-    }
-</style>
-
-<div class="banner">
-    <h1>Welcome to the Cognitive Science, Brain, and AI Community</h1>
-    <p>Exploring the fascinating intersection of human cognition, neuroscience, and artificial intelligence.</p>
-    <button>Join the Community</button>
-</div>
 ## Welcome to the wisdom space!
 
 This is the landing page to list books or other resources in the broad domain on cognitive science and trusted artificial intelligence research. The goal is to share information and knowledge in the cross disapline areas of cognitive psychology, neural science, evolutionary biology, computer science and artificial intelligence, which hopefully help spark and distill wisdomm from it.
