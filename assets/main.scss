@@ -3,15 +3,11 @@
 ---
 
 @import "minima";
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
 @import "{{ site.theme }}";
 .site-title::before {
-content: url("/assets/comkraft.jpg");
+content: url("/assets/banner.jpg");
 display: inline-block;
-position: relative;
-width: 5px;
-top: 10px;
+width: 64px;
+height: 10%
+top: 5px;
 }
