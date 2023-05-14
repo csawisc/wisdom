@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How the Mind Changed?"
+title:  "How the Mind Changed"
 date:   2023-05-14 12:00:00 -0400
 categories: brain books anthoropology memory
 ---
