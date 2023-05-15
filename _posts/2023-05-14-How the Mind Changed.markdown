@@ -5,7 +5,7 @@ date:   2023-05-14 12:00:00 -0400
 categories: brain books anthoropology memory
 ---
 
-<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://www.amazon.com/How-Mind-Changed-History-Evolving/dp/0316424986/ref=asc_df_0316424986/?tag=hyprod-20&linkCode=df0&hvadid=598244665656&hvpos=&hvnetw=g&hvrand=813976284064855555&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007576&hvtargid=pla-1687326217164&psc=1&asin=0316424986&revisionId=&format=4&depth=1" ></iframe>
+<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780316424981_p0_v3_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D"></iframe>
 
 ### Fairfax County Library: 612.82 Jebelli 2022
 ### Author: Joseph Jebelli (Univerisity of Washington/Univerisity Colllege London)
