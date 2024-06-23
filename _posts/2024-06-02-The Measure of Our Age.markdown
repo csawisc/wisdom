@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Measure of Our Age"
+date:   2024-06-02 17:26:31 -0400
 categories: aging books anthoropology healcare socialology
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "The Guardian of All Things"
+title:  "The Guardian of All things"
+date:   2024-06-23 17:26:31 -0400
 categories: memory anthoropology sicentific history technology
 ---
 
