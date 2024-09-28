@@ -5,7 +5,7 @@ date:   2024-09-28 14:00:00 -0400
 categories: neuroscience brain mother women child
 ---
 
-<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"></iframe>
+<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/71P7QA-H-kL._SL1500_.jpg"></iframe>
 
 ### Fairfax County Library: 306.8743, Conaboy 2022
 ### Author: Chelsea Conaboy, writes about personal and public health, Boston Globe's Pulitzer Prize-winning coverage of The Boston Marathon Bombing
