@@ -5,7 +5,7 @@ date:   2024-11-16 14:00:00 -0400
 categories: artificial intelligence job health 
 ---
 
-<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"></iframe>
+<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://m.media-amazon.com/images/I/81nVkkP7BJL._SL1500_.jpg"></iframe>
 
 ### Fairfax County Library: 303.483, Kurzwei 2024
 ### Author: Ray Kurzweil , world-class inventor, thinker and futurist, MIT graduate, Grammy Award winner for music technology, principle researcher and AI visonary at Google.
@@ -34,14 +34,14 @@ Another issue was the lack of social and psychological descriptions in the post-
 
 ### Notes
 Chapter 1 shares 6 stages/epochs
-|Epoch | Medium | Timescale
-|-|-|-|
-|First| Nonliving matter| Billions of years (nonbiological atomic and chemical synthesis)
-|Second| RNA and DNA | Millions of years (until natural selection introduces a new behavior)
-|Third | Cerebellum | Thousands to millions of years (to add complex skills via evolution), hours to year (for very basic learning)
-|Fourth | Neocortex, Digital neural nets | Hours to week (to master complex new skills)
-|Fifth | Brain-computer interface | seconds to minutes (to explore ideas unimaginable to present-day human)
-|Sixth | Computronium | < seconds (to continually reconfigure cognition toward the limits of what the laws of physics allows)
+|Epoch | Medium | Timescale|
+|---|---|---|
+|First| Nonliving matter| Billions of years (nonbiological atomic and chemical synthesis)|
+|Second| RNA and DNA | Millions of years (until natural selection introduces a new behavior)|
+|Third | Cerebellum | Thousands to millions of years (to add complex skills via evolution), hours to year (for very basic learning)|
+|Fourth | Neocortex, Digital neural nets | Hours to week (to master complex new skills)|
+|Fifth | Brain-computer interface | seconds to minutes (to explore ideas unimaginable to present-day human)|
+|Sixth | Computronium | < seconds (to continually reconfigure cognition toward the limits of what the laws of physics allows)|
 We are currently at the Fourth epoch. But when we pass Turning test, we will be entering Fifth epoch
 
 
