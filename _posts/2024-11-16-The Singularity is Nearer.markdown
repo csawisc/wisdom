@@ -33,8 +33,8 @@ Another issue was the lack of social and psychological descriptions in the post-
 * Dialogue with Cassandra
 
 ### Notes
-Chapter 1 shares 6 stages/epochs
-|Epoch | Medium | Timescale|
+
+| Epoch | Medium | Timescale|
 |---|---|---|
 |First| Nonliving matter| Billions of years (nonbiological atomic and chemical synthesis)|
 |Second| RNA and DNA | Millions of years (until natural selection introduces a new behavior)|
@@ -42,6 +42,8 @@ Chapter 1 shares 6 stages/epochs
 |Fourth | Neocortex, Digital neural nets | Hours to week (to master complex new skills)|
 |Fifth | Brain-computer interface | seconds to minutes (to explore ideas unimaginable to present-day human)|
 |Sixth | Computronium | < seconds (to continually reconfigure cognition toward the limits of what the laws of physics allows)|
+
+Chapter 1 shares 6 stages/epochs
 We are currently at the Fourth epoch. But when we pass Turning test, we will be entering Fifth epoch
 
 
@@ -58,18 +60,18 @@ What does AI still need to achieve (to re-creating the capabilities of neocortex
 Chapter 3
 * Talking to my dad bot (p105)
 This is a good set of sample questions that such a bot could include. It directly or indirectly reflects a person's life philosophy and experience.
-** What do you love most about music?
-** Who is your favorite composer, and why?
-** What is the essence of rock and roll music?
-** How did you first get involved in conducting
-** How do you want to be remembered?
-** Do you have any regrets?
-** What makes a person who they are?
-** Do you have any hobbies?
-** Do you have any anxieties?
-** How do you feel about modern technology?
-** Can you tell me a story about a car accident?
-** What is the meaning of life?
+  * What do you love most about music?
+  * Who is your favorite composer, and why?
+  * What is the essence of rock and roll music?
+  * How did you first get involved in conducting
+  * How do you want to be remembered?
+  * Do you have any regrets?
+  * What makes a person who they are?
+  * Do you have any hobbies?
+  * Do you have any anxieties?
+  * How do you feel about modern technology?
+  * Can you tell me a story about a car accident?
+  * What is the meaning of life?
 
 
 ### Keywords
